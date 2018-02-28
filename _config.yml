@@ -35,10 +35,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+#twitter:            default
+#facebook:           default
+#instagram:          default
+github:             "https://github.com/YaTingChang0620"
 
 # personal
 location:           Pittsburgh, PA
