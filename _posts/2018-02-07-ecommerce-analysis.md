@@ -2,7 +2,8 @@
 layout: post
 title:  "Customer Segmentation and Repurchase Prediction"
 date:   2018-02-07
-excerpt: "A case study of online retailer in UK-based"
+excerpt: "For a company, the desire to know customers better never changes. Especially for an online store with large 
+scale dataset, revealing the hidden pattern of purchase behavior becomes even more important. In this project, we aim to help the company understand their customer segmentation and make data-driven marketing strategy to target the right customer."
 image: "/images/ecom/cover.png"
 ---
 
