@@ -276,6 +276,6 @@ budget allocation. </li>
 
 <h2>Appendix</h2>
 <ul>
-<li>Data source could be found on <a href="https://www.kaggle.com/carrie1/ecommerce-data">kaggle</a></li>
+<li>Data source: <a href="https://www.kaggle.com/carrie1/ecommerce-data">kaggle</a></li>
 <li>All codes could be found in my <a href="https://github.com/YaTingChang0620">git</a></li>
 </ul>
