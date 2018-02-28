@@ -1,7 +1,7 @@
 ---
 layout: page
 title: YA-TING CHANG
-description:
+description: YA-TING CHANG - Personal Website
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

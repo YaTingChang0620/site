@@ -1,10 +1,10 @@
 ---
 layout: null
-title: Jekyll Theme - Home Page - Massively
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+title: YA-TING CHANGE
+description: YA-TING CHANG - Personal Website
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
+    lastmod: 2018-02-28
     changefreq: weekly
 ---
 <!DOCTYPE HTML>
@@ -59,10 +59,8 @@ sitemap:
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">Massively is a versatile Jekyll theme</a></h2>
-									<p>With only a few edits, you can have a stunningly beautiful website <br />
-                    nearly out of the box. Of course... you can always take it further <br />
-                    and make it something even more amazing!</p>
+									<h2><a href="#">Profile</a></h2>
+									<p> Add anything here</p>
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
 				                <p>Regardless of your website's function, the homepage is what brings the user in.
@@ -78,8 +76,8 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                {% for post in site.posts limit:6 %}
+                {% assign mod6 = forloop.index | modulo: 6 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -88,17 +86,17 @@ sitemap:
   									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Read more</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
+<!--                   {% if mod3 == 0 %}
                   <article>
   									<header>
   										<h2><a href="#">Sponsored</h2>
   									</header>
 
   								</article>
-                  {% endif %}
+                  {% endif %} -->
                 {% endfor %}
 
 							</section>
