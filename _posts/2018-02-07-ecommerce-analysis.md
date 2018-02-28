@@ -2,11 +2,13 @@
 layout: post
 title:  "Customer Segmentation and Repurchase Prediction"
 date:   2018-02-07
-excerpt: "A case study of online retailer in UK"
+excerpt: "A case study of online retailer in UK-based"
 image: "/images/ecom/cover.png"
 ---
 
-This dataset contains actual transactions from 2010 and 2011 for a UK-based online retailer. There are a few challenges in this dataset:
+This dataset contains actual transactions from 2010 and 2011 for a UK-based online retailer. 
+The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+There are a few challenges in this dataset:
 <ol>
 <li>Too few features, eight features only:<br>
 &emsp;&emsp;InvoiceNo, Stockcode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country</li>
@@ -25,7 +27,7 @@ This dataset contains actual transactions from 2010 and 2011 for a UK-based onli
 <h2>I. Exploratory Data Analysis</h2>
 
 <p>The number of features in our raw data is not enough for in-depth analysis. For example, we want to know how many items customers tend to buy in each transaction, or the interval between visits.<br>
-These features are all lack in our raw data. Therefore, we generated additional 17 features into 25 features in total such as (per customer):
+Our raw data is lack of these feature. Therefore, we generated additional 17 features into 25 features in total such as (per customer):
 <ul>
 <li>total spending</li>
 <li>unit price per transaction</li>
@@ -270,3 +272,10 @@ predict his/her repurchase rate. Based on the prediction outcome, we could bette
 budget allocation. </li>
 <li>Further analyze the most popular product in each customer cluster and provide personalized recommendation for each cluster!</li>
 </ol>
+
+
+<h2>Appendix</h2>
+<ul>
+<li>Data source could be found on <a href="https://www.kaggle.com/carrie1/ecommerce-data">kaggle</a></li>
+<li>All codes could be found in my <a href="https://github.com/YaTingChang0620">git</a></li>
+</ul>
