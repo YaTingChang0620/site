@@ -3,8 +3,8 @@ title:              YA-TING CHANG
 bio:                'YA-TING CHANG - Portfolio'
 description:        "YA-TING CHANG - Portfolio"
 locale:             en_US
-baseurl: "/nana" # the subpath of your site, e.g. /blog
-url: "https://twcmchang.github.io" # the base hostname & protocol for your site
+baseurl: "/site" # the subpath of your site, e.g. /blog
+url: "https://yatingchang0620.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Pittsburgh, PA
+phone:              562 228 5178
+email:              yatingc2@andrew.cmu.edu
 
 # Gems
 gems:
@@ -57,7 +57,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://twcmchang.github.io/nana/
+    base_url: https://yatingchang0620.github.io/site/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
