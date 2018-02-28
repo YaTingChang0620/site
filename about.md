@@ -1,7 +1,7 @@
 ---
 layout: page
 title: YA-TING CHANG
-description: YA-TING CHANG - Personal Website
+description: YA-TING CHANG - Portfolio
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
