@@ -2,14 +2,13 @@
 layout: post
 title:  "Customer Segmentation and Repurchase Prediction"
 date:   2018-02-07
-excerpt: "For a company, the desire to know customers better never changes. Especially for an online store with large 
-scale dataset, revealing the hidden pattern of purchase behavior becomes even more important. In this project, we aim to help the company understand their customer segmentation and make data-driven marketing strategy to target the right customer."
+excerpt: "For a company, the desire to know customers better never changes. Especially for an online store..."
 image: "/images/ecom/cover.png"
 ---
-
-This dataset contains actual transactions from 2010 and 2011 for a UK-based online retailer. 
+<p>For an online store with large scale dataset, revealing the hidden pattern of purchase behavior becomes even more important. In this project, we aim to help the company understand their customer segmentation and make data-driven marketing strategy to target the right customer.</p>
+<p>This dataset contains actual transactions from 2010 and 2011 for a UK-based online retailer. 
 The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
-There are a few challenges in this dataset:
+There are a few challenges in this dataset:</p>
 <ol>
 <li>Too few features, eight features only:<br>
 &emsp;&emsp;InvoiceNo, Stockcode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country</li>
