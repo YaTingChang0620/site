@@ -16,7 +16,7 @@ sitemap:
 I tell story with data and like to help people make better decision! I am from Taiwan and currenlty live in Pittsburgh, studying for a Master's degree.</p>
 
 <p>My strength lies in Statistical Analysis, Exploratory Data Analysis and Programming in R. 
-Things I found interesting are Supervised Learning including Regression and Tree-Based Methods. 
+Things I find interesting are Supervised Learning including Regression and Tree-Based Methods. 
 And things I want to learn more are Natural Language Processing and Clustering.</p>
  
 <p>Previously, I worked in the advertising and health supplement industries and focused on analyzing customer behavior 
